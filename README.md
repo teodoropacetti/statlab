@@ -2,7 +2,7 @@
 R library for Statistical Modelling
 
 ## Usage
-Import this file in RStudio with and then call setup like this:
+Import this file in RStudio and then call setup like this:
 ```
 source('path_to_statlab.R')
 sl_setup()
