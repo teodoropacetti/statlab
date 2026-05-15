@@ -7,8 +7,7 @@
 #   source("statlab_ext.R")
 #   sl_setup_ext()
 #
-# NOTE: the last ~132 lines of statlab.R were not fetchable.
-# The following functions may already be defined there:
+# NOTE: The following functions may already be defined in statlab.R:
 #   sl_boot_plot, sl_lm_diagnostics, sl_vif, sl_step_aic, sl_predict_lm
 # If R complains about duplicate definitions just remove the duplicates here.
 #
